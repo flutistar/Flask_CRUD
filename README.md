@@ -14,7 +14,7 @@ open the terminal and follow the white rabbit.
 
 
 ```
-git clone https://github.com/gurkanakdeniz/example-flask-crud.git
+git clone https://github.com/developer7132/Flask_CRUD.git
 ```
 ```
 cd example-flask-crud/
